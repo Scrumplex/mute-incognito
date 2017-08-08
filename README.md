@@ -2,11 +2,9 @@ Mute Incognito
 ===
 Chrome allows every tab to make noise by default. This extension mutes every incognito tab, to stop unintended noise from websites while in incognito mode.
 
-**Note: you must enable "Tab audio muting UI control" in `chrome://flags` to be
-able to click the mute/un-mute icon on the tab.**
+Note: you must enable "Tab audio muting UI control" (#enable-tab-audio-muting) in `chrome://flags` (`chrome://flags/#enable-tab-audio-muting`) to be able to click the mute/un-mute icon on the tab.
 
 This extension is based on the extension [mute-new-tabs](https://github.com/ludios/mute-new-tabs) from [ludios](https://github.com/ludios). If you need more functionality use that extension.
-
 
 ## Install from the Chrome Web Store
 
