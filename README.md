@@ -21,10 +21,9 @@ to get rid of it (I have not tested this).
 1. [Download the crx file from GitHub](extension.crx).
 2. Open Chrome / Chromium
 3. Enter `chrome://extensions` in the address bar (Or open the extensions page as you like)
-4. Enable Developer mode at the top-right.
-5. Drag and drop the downloaded crx file to the extensions page.
-6. Click on Details at the extension.
-7. Check "Allow in incognito".
+4. Drag and drop the downloaded crx file to the extensions page.
+5. Click on Details at the extension.
+6. Check "Allow in incognito".
 
 ## Install from source
 
